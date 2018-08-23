@@ -3,7 +3,7 @@
   "version": "0.0.9",
   "repository": {
     "type": "git",
-    "url": "git@github.com:indiecastfm/react-native-audio-streamer.git"
+    "url": "git@https://github.com/wdayanand/react-native-audio-streamer.git"
   },
   "keywords": [
     "react-native",

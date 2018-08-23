@@ -2,6 +2,9 @@
 
 A react-native audio streaming module which works on both iOS & Android
 
+its fork from https://github.com/indiecastfm/react-native-audio-streamer.git 
+-Resolved ios compatibility issue
+
 iOS streaming is based on [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer)
 
 Android streaming is based on [ExoPlayer](https://github.com/google/ExoPlayer)
