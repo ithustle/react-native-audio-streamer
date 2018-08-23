@@ -1,8 +1,9 @@
 # react-native-audio-file-streamer
 
-This project is based on https://github.com/indiecastfm/react-native-audio-file-streamer.git
+This project is based on victor36max's project https://www.npmjs.com/package/react-native-audio-streamer
 
--This project is created for resolved issue of incompatibility with react native 0.48.x in iOS
+This project is created for resolved issue of incompatibility with react native 0.48.x in iOS
+Issue: Redefinition of RCTMethodInfo ---> FIXED
 
 
 
