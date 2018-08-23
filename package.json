@@ -1,6 +1,6 @@
 {
-  "name": "react-native-audio-streamer",
-  "version": "0.0.9",
+  "name": "react-native-audio-file-streamer",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git@https://github.com/wdayanand/react-native-audio-streamer.git"

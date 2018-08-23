@@ -1,8 +1,8 @@
-# react-native-audio-streamer
+# react-native-audio-file-streamer
 
 A react-native audio streaming module which works on both iOS & Android
 
-its fork from https://github.com/indiecastfm/react-native-audio-streamer.git 
+its fork from https://github.com/indiecastfm/react-native-audio-file-streamer.git 
 -Resolved ios compatibility issue
 
 iOS streaming is based on [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer)
@@ -11,18 +11,18 @@ Android streaming is based on [ExoPlayer](https://github.com/google/ExoPlayer)
 
 ## Installation
 
-`npm install react-native-audio-streamer --save`
+`npm install react-native-audio-file-streamer --save`
 
 Then run the following command to link to iOS & Android project
 
-`react-native link react-native-audio-streamer`
+`react-native link react-native-audio-file-streamer`
 
 ## Usage
 
 ### Basic
 
 ```javascript
-import RNAudioStreamer from 'react-native-audio-streamer';
+import RNAudioStreamer from 'react-native-audio-file-streamer';
 
 RNAudioStreamer.setUrl('http://lacavewebradio.chickenkiller.com:8000/stream.mp3')
 RNAudioStreamer.play()
